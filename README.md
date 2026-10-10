@@ -11,7 +11,7 @@ I try to pick the right tool for the problem rather than the trendy one, and I c
 Open to new roles, remote (Brazil or abroad) or on-site/hybrid around Itajaí.
 [LinkedIn](https://www.linkedin.com/in/gabrielprates-2635661b9) · [gabri_prates@hotmail.com](mailto:gabri_prates@hotmail.com)
 
-## 🛠 Stack
+## Stack
 
 **Day to day**
 
@@ -34,17 +34,9 @@ Open to new roles, remote (Brazil or abroad) or on-site/hybrid around Itajaí.
 ![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
 
-## ☁️ AWS
+## AWS
 
 AWS is the part of the stack I enjoy most. At Trinity I ran the environment day to day, cost control included, and the problems I liked solving best usually ended up there: Lambda and EventBridge for scheduled jobs, SQS for queues and rate limiting, S3 and EC2 for storage and compute. Cloud architecture is where I want to keep growing. I'm an AWS Certified Cloud Practitioner and the Solutions Architect certification is next.
-
-<!--
-## 📌 Projects
-
-| Repo | What it is | Stack |
-| --- | --- | --- |
-| [repo-name](https://github.com/USERNAME/repo-name) | One line about the problem it solves | Node.js, TypeScript |
--->
 
 ## How I work
 
