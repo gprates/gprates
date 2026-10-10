@@ -1,4 +1,4 @@
-### Software Engineer · Node.js · TypeScript · Vue.js · AWS
+### Software Engineer · Node.js · TypeScript · Vue.js · AWS · Oracle
 
 📍 Itajaí, SC, Brazil
 
