@@ -8,7 +8,7 @@ Most of that time went into **Trinity**, a platform that centralizes import/expo
 
 I try to pick the right tool for the problem rather than the trendy one, and I care about what the software does for the people using it: fewer manual steps, fewer mistakes, lower cost.
 
-📫 Open to new roles, remote (Brazil or abroad) or on-site/hybrid around Itajaí.
+Open to new roles, remote (Brazil or abroad) or on-site/hybrid around Itajaí.
 [LinkedIn](https://www.linkedin.com/in/gabrielprates-2635661b9) · [gabri_prates@hotmail.com](mailto:gabri_prates@hotmail.com)
 
 ## 🛠 Stack
@@ -46,7 +46,7 @@ AWS is the part of the stack I enjoy most. At Trinity I ran the environment day 
 | [repo-name](https://github.com/USERNAME/repo-name) | One line about the problem it solves | Node.js, TypeScript |
 -->
 
-## 🤝 How I work
+## How I work
 
 - Scrum with Jira: planning, estimates, writing cards, reviews and retros
 - Detailed pull request reviews and mentoring for less experienced developers
@@ -54,11 +54,11 @@ AWS is the part of the stack I enjoy most. At Trinity I ran the environment day 
 - Ownership past the code: CI/CD, telemetry, infrastructure, security and production stability
 - AI-assisted development with Claude Code, using spec-driven workflows
 
-## 🌱 Currently learning
+## Currently learning
 
 Kubernetes, the AWS Solutions Architect certification, and React.
 
-## 🎓 Education
+## Education
 
 - B.Sc. in Computer Science, Universidade do Vale do Itajaí (Univali), finishing in December 2026
 - AWS Certified Cloud Practitioner
