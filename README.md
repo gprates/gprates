@@ -2,9 +2,9 @@
 
 📍 Itajaí, SC, Brazil
 
-Full-stack engineer with a backend lean. I've spent nearly five years shipping production systems: APIs, integrations, data pipelines, cloud infrastructure and the interfaces on top of them.
+Full-stack engineer with a backend lean. I've been working on production systems for almost five years, mostly with Node.js and TypeScript on the backend, Vue.js on the frontend and AWS for infrastructure.
 
-Most of that time went into **Trinity**, a platform that centralizes import/export, transport and warehousing operations for internal teams and for customers. I'm one of the people who created it, and I went from intern to Senior Software Engineer along the way. The domain was logistics and foreign trade; the work was what you find in most products: connecting systems that weren't built to talk to each other, making slow queries fast, keeping production stable and keeping the cloud bill low.
+Most of that time I worked on Trinity, a platform that centralizes import/export, transport and warehousing operations for internal teams and for customers. I'm one of the people who created it, and I went from intern to Senior Software Engineer along the way. The business was logistics and foreign trade, but the day-to-day work was integrating with external APIs, optimizing queries, keeping production stable and keeping cloud costs under control.
 
 I try to pick the right tool for the problem rather than the trendy one, and I care about what the software does for the people using it: fewer manual steps, fewer mistakes, lower cost.
 
@@ -36,7 +36,7 @@ Open to new roles, remote (Brazil or abroad) or on-site/hybrid around Itajaí.
 
 ## AWS
 
-AWS is the part of the stack I enjoy most. At Trinity I ran the environment day to day, cost control included, and the problems I liked solving best usually ended up there: Lambda and EventBridge for scheduled jobs, SQS for queues and rate limiting, S3 and EC2 for storage and compute. Cloud architecture is where I want to keep growing. I'm an AWS Certified Cloud Practitioner and the Solutions Architect certification is next.
+AWS is the part of the stack I enjoy most. At Trinity I managed the environment day to day, including cost control, and a lot of the problems I liked solving ended up being solved there. I worked mostly with Lambda, EventBridge, SQS, S3 and EC2. I'm an AWS Certified Cloud Practitioner and I'm studying for the Solutions Architect certification.
 
 ## How I work
 
@@ -52,5 +52,5 @@ Kubernetes, the AWS Solutions Architect certification, and React.
 
 ## Education
 
-- B.Sc. in Computer Science, Universidade do Vale do Itajaí (Univali), finishing in December 2026
+- B.Sc. in Computer Science, Universidade do Vale do Itajaí (Univali)
 - AWS Certified Cloud Practitioner
